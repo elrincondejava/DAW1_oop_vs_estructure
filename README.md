@@ -1,2 +1,2 @@
 # DAW1_oop_vs_estructure
-With Collaboratos and more
+With Collaborators and more
